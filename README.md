@@ -1,4 +1,4 @@
-#Naim Zol Portfolio
+# Naim Zol Portfolio
 Welcome to my Data Science Portfolio. My passion is understanding the intersection of data science and business analytics.
 
 # Project 1 : Data Science Salary Estimator: Project Overview
