@@ -1,4 +1,3 @@
-![image](https://github.com/naimzol/Naimzol_Portfolio/assets/137860351/d61999c5-ab39-47f7-b5a3-a273c1beb5ca)# Naimzol_Portfolio
 Welcome to my Data Science Portfolio. My passion is understanding the intersection of data science and business analytics.
 
 # Project 1 : Data Science Salary Estimator: Project Overview
